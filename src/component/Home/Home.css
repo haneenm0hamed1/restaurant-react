@@ -1,0 +1,369 @@
+*{
+    font-family: "Roboto", system-ui;
+
+}
+
+
+.number{
+    background-color: #a82d49;
+    padding: 25px 0px;
+    max-width:100% ;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.number h2{
+    font-size: 50px;
+    font-weight: 500;
+    margin: 10px 0px;
+    color: #fff;
+    font-family: "Roboto", system-ui;
+
+}
+.number .row{
+    margin: 10px 0px;
+}
+.number h6{
+    text-transform: uppercase;
+    color: #fff;
+    font-family: "Roboto", system-ui;
+ font-weight: 500;
+letter-spacing: 1px;
+}
+
+/* pride section */
+.pride{
+    background-color: transparent;
+    padding: 25px 0px;
+    max-width:100% ;
+    height: auto;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.pride img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+ h2,h5{
+    font-size: 35px;
+    font-weight: 500;
+    width: 80%;
+    margin: 10px 0px;
+    color: #7c0f28;
+    font-family: "Roboto", system-ui;
+    line-height: 50px
+}
+ p{
+    font-family: "Roboto", system-ui;
+    color: #555;
+    margin: 15px 0px !important;
+    font-size: 25px !important;
+}
+
+ button{
+    width: 150px;
+    height: 50px;
+    background-color: #7c0f28;
+    border: 2px solid #7c0f28;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    margin: 20px 10px 20px 0;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+ button a{
+    text-decoration: none;
+    color: #fff;
+}
+button a:hover{
+    text-decoration: none;
+    color: #7c0f28;
+
+
+}
+button:hover{
+    background-color:  #fff;
+    color: #7c0f28;
+    transition: .3s ease-in-out;
+
+}
+/* ingrident */
+.ingridents{
+    margin-top: 50px;
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    overflow: hidden;
+}
+.ingridents img{
+    width: 100%;
+}
+.ingridents h2{
+    margin-top: 100px;
+    font-weight: 500;
+    font-size: 46px;
+}
+.ingridents ul{
+    padding: 0px;
+}
+.ingridents ul li{
+    font-family: "Roboto", system-ui;
+    color: #555;
+    margin-top: 10px;
+
+}
+
+
+/* paralex  */
+
+
+
+.paralex{
+    background: url('./../../images/8.jpg') center no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    padding: 30px 0px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.paralex .row{
+    margin: 50px 0px;
+}
+.paralex h2 {
+    width: 100%;
+    font-size: 40px;
+}
+.paralex a{
+    color: #a82d49;
+    font-size:20px ;
+    margin: 20px 0px;
+    font-family: "Roboto", system-ui;
+text-decoration: none;
+}
+.paralex a:hover{
+text-decoration: none;
+color: #7c0f28;
+}
+/* blogs */
+.blogs{
+    padding: 30px 0px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+.blogs h2{
+    width: 100%;
+    color: #43121d;
+    margin-bottom: 15px;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    font-weight: 700;
+}
+.blogs p{
+    padding:0 14%;
+    margin: 0 0 10px;
+}
+.blogs .row{
+    margin: 50px 0px;
+}
+.blogs .box{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.blogs img{
+    max-width: 100%;
+}
+.blogs h5{
+    color: #7c0f28;
+    font-family: "Roboto", system-ui;
+font-size: 25px;
+margin: 10px 0px;
+text-align: left;
+}
+.blogs span{
+    color: #555;
+    font-family: "Roboto", system-ui;
+display: block;
+text-align: left;
+}
+.blogs h6{
+    color: #a82d49;
+    font-size: 28px;
+    margin-top: 20px;
+    font-family: "Roboto", system-ui;
+    font-weight: 700;
+text-align: left;
+}
+.blogs button{
+  padding: 15px;
+}
+/* slider */
+.slider{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 25px 0;
+}
+.slider img{
+    width: 100px;
+height: 100px;
+    border-radius: 50%;
+}
+.slider p{
+    color: #333;
+    font-size: 17px;
+    line-height: 30px;
+}
+.slider span{
+color: #7c0f28;
+display: block;
+margin: 15px 0px;
+}
+.slider .carousel{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+.slider .carousel-control-prev{
+    display: none;
+}
+.slider .carousel-control-next{
+    display: none;
+}
+.slider .carousel.slide .carousel-indicators button{
+   border-radius: 50%;
+   width: 20px;
+   height: 20px;
+   margin: 4px;
+}
+.slider .carousel-caption{
+    position: static;
+}
+.slider h2{
+    text-align: center !important;
+    width: 100%;
+    /* padding-right: 23px; */
+    color: #fff;
+}
+
+
+ 
+  /* Frequently */
+  .Frequently{
+    margin-bottom: 100px;
+  }
+  .Frequently h2{
+    width: 100%;
+    text-align: center;
+    margin: 80px;
+  }
+  .Frequently .item{
+    padding: 0;
+  }
+
+
+
+
+
+  /* parllax */
+  .parllax{
+    background: url('./../../images/10.jpg') center no-repeat;
+    background-size: cover;
+    padding: 70px;
+    position: relative;
+    margin-bottom: 70px;
+}
+.parllax .overlay{
+    background: #000;
+    opacity: 0.4;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+  .parllax h4{
+font-size: 35px;
+font-weight: 500;
+color: #fff;
+width: 100%;
+  }
+  .parllax button{
+    width: 174px;
+    height: 60px;
+ background-color: #a82d49;
+  } 
+  .parllax button:hover{
+    background-color: transparent;
+  }
+
+  /* harry */
+  .harry{
+    margin-bottom: 200px;
+  }
+  .harry h2{
+  
+    font-size: 50px;
+  }
+  .harry h2,p{
+width: 100%;
+text-align: center;
+padding-bottom: 10px;
+  }
+.harry .intro{
+    width: 55%;
+    margin: 0px auto;
+    text-align: center;
+}
+.harry .intro input{
+    height: 50px;
+    text-align: center;
+    padding: 0 20px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    width: 100%;
+    border: none;
+    border-radius: 0px;
+    background: transparent;
+    border: 3px solid #e5e5e5;
+    color: #000;
+    font-weight: 700;
+    outline: none;
+}
+.harry .intro button{
+    position: relative;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    font-size: 14px;
+    height: 50px;
+    text-align: center;
+}
+
+
+
+
+  @media only screen and (min-width: 768px) and (max-width: 992px) {
+    .container {
+        width: 100%;
+        max-width: 750px;
+    }
+}

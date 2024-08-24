@@ -1,0 +1,25 @@
+footer{
+    background-color: #a82d49;
+    padding: 20px;
+}
+footer h4{
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+footer p{
+    color: #aba0a0 !important;
+    cursor: pointer !important;
+    font-size: 15px;
+
+}
+footer p:hover{
+    color: #bf6a7e !important;
+    cursor: pointer;
+    transition: .2s ease;
+}
+footer .footer_bar{
+    color: #968b8b;
+    position: relative;
+    right: 9%;
+}

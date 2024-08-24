@@ -1,0 +1,37 @@
+nav{
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    position: fixed !important;
+    z-index: 2;
+    border: 1px solid #fff;
+    border-radius: 0px;
+    cursor: pointer;
+}
+nav a{
+    color: #ab3550 !important;
+    cursor: pointer;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    text-transform: uppercase; 
+}
+
+nav #lastnav{
+    background-color: #ab3550;
+    border: 1px solid #ab3550;
+    color: #fff !important;
+    box-sizing: border-box;
+}
+
+nav #lastnav:hover{
+    background-color: transparent;
+    color: #ab3550 !important;
+    transition: .2s ease-in-out;
+}
+
+nav img{
+    max-width: 100%;
+    height: 90%;
+}
