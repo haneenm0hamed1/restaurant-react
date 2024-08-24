@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/restaurant-react/static/css/main.b1160589.css",
+    "main.js": "/restaurant-react/static/js/main.662a89e8.js",
+    "static/js/453.3257c68d.chunk.js": "/restaurant-react/static/js/453.3257c68d.chunk.js",
+    "static/media/ingri.png": "/restaurant-react/static/media/ingri.b810024430d376b6bd6d.png",
+    "static/media/3 (1).jpg": "/restaurant-react/static/media/3 (1).12c392d279429f82935c.jpg",
+    "static/media/1.png": "/restaurant-react/static/media/1.91adf8dc0779a423e014.png",
+    "static/media/9.jpg": "/restaurant-react/static/media/9.0df4d0d0dda2d436bffc.jpg",
+    "static/media/10.jpg": "/restaurant-react/static/media/10.580213ab4b0ed0a48210.jpg",
+    "static/media/6.jpg": "/restaurant-react/static/media/6.960ff282036e3c4e63eb.jpg",
+    "static/media/8.jpg": "/restaurant-react/static/media/8.8dac9ee9eb3e67760871.jpg",
+    "static/media/4.jpg": "/restaurant-react/static/media/4.f6e01ff2a6ae714f244b.jpg",
+    "static/media/01.jpg": "/restaurant-react/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/02.jpg": "/restaurant-react/static/media/02.a567a9db1482b99c0fab.jpg",
+    "index.html": "/restaurant-react/index.html",
+    "main.b1160589.css.map": "/restaurant-react/static/css/main.b1160589.css.map",
+    "main.662a89e8.js.map": "/restaurant-react/static/js/main.662a89e8.js.map",
+    "453.3257c68d.chunk.js.map": "/restaurant-react/static/js/453.3257c68d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1160589.css",
+    "static/js/main.662a89e8.js"
+  ]
+}
